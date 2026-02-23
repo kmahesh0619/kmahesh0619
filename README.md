@@ -99,11 +99,11 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshntz2019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=7F52FF&text_color=E6EDF3" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshntz2019&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=E6EDF3" alt="GitHub Streak" width="48%"/>
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
 ---
 
 ## 🎯 Current Focus
